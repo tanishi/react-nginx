@@ -1,0 +1,19 @@
+{
+  "name": "react-nginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishi/react-nginx.git"
+  },
+  "author": "tanishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanishi/react-nginx/issues"
+  },
+  "homepage": "https://github.com/tanishi/react-nginx#readme"
+}
